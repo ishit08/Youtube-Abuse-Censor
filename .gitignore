@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.Python
+
+# OS files
+.DS_Store
+
+# VSCode and editor folders
+.vscode/
+.idea/
+
+# Uploads or generated files
+uploads/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/ 
