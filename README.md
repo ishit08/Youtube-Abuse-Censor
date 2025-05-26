@@ -11,7 +11,8 @@ A modern Flask web application that allows you to upload a video, automatically 
 - Funky animated card background
 
 ## Demo
-![Screenshot](Screenshot 1.png, Screenshot 2.png)
+![Screenshot](<img width="1435" alt="Screenshot 1" src="https://github.com/user-attachments/assets/c4e09e1d-8006-4822-ad0a-a4f9387d4f00" />
+, <img width="1439" alt="Screenshot 2" src="https://github.com/user-attachments/assets/484972b5-35c9-4e86-a33a-a8823eef9639" />)
 
 ## Getting Started
 
